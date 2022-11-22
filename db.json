@@ -44,7 +44,7 @@
       "id": 4,
       "balance": {
         "RUB": 30000,
-        "USD": 150,
+        "USD": 237,
         "EUR": 300,
         "NTC": 20000
       }
@@ -68,7 +68,7 @@
       "id": 6,
       "balance": {
         "RUB": 11,
-        "USD": 425.75838211814795,
+        "USD": 338.75838211814795,
         "EUR": 7.877116975187081,
         "NTC": 7
       }
@@ -104,13 +104,9 @@
       "4": "Галя"
     },
     "6": {
-      "1": "oleg@demo.ru",
       "2": "ivan@demo.ru,",
       "3": " petr@demo.ru",
-      "4": "galina@demo.ru",
-      "5": " vladimir@demo.ru",
-      "8": "nklk",
-      "67": "jhbh"
+      "4": "galina@demo.ru"
     }
   }
 }
