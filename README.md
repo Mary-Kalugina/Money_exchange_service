@@ -7,7 +7,7 @@
 My contribution here is HTTP requests. The data entered by the user is sent to the server and the information provided by the server is displayed to the user.</h4>
 
 <h4>
-- Download the project <br>
+- Clone the project <br>
 - npm install<br>
 - npm start<br>
 </h4>
