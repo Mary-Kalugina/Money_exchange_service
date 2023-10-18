@@ -1,4 +1,5 @@
-<h4>Сайт-биржа для крипто-стартапа. На этом сайте можно покупать валюту и передавать ее другим пользователям сервиса.<br> Моя работа здесь - HTTP запросы. Данные, введённые пользователем, отправляляются на сервер, а информация, предоставленная сервером, отображается пользователю.</h4>
+<h4>Сайт-биржа для крипто-стартапа. На этом сайте можно покупать валюту и передавать ее другим пользователям сервиса.<br>
+Моя работа здесь - HTTP запросы. Данные, введённые пользователем, отправляляются на сервер, а информация, предоставленная сервером, отображается пользователю.</h4>
 
 <h4>An exchange site for a crypto startup. On this site you can buy currency and transfer it to other users of the service. <br> My contribution here is HTTP requests. The data entered by the user is sent to the server and the information provided by the server is displayed to the user.</h4>
 
